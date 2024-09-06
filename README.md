@@ -12,6 +12,8 @@ Sample Readme
 
 ## Installation
 Run npm install inquirer
+Run through all the questions
+This will create a readme file. 
 
 ## License
 MIT
